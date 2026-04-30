@@ -8,7 +8,13 @@
 ⚡ Fun fact I’ve engineered a smart irrigation system that’s actually better at keeping my plants alive than I am<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PratirupaToppo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratirupatoppo@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pratirupa-Toppo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratirupatoppo@gmail.com) 
+
+# 📈 Contribution Activity:
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratirupatoppo&theme=merko&hide_border=false" width="820px" />
+</div>
+<br>
 
 # 📊 GitHub Stats:
 <div>
@@ -20,6 +26,10 @@
 </div>
 
 <br>
+
+
+
+
 
 # 🚀 Featured Projects:
 <div>
