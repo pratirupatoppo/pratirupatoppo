@@ -1,7 +1,7 @@
 <div style="font-family: 'Playfair Display', serif;">
 
 <div align="center">
-  <img src="banner.png" alt="Hi, I'm Pratirupa Banner" width="100%" />
+  <img src="banner.png" alt="Hi, I'm Pratirupa Banner" width="80%" />
 </div>
 
 <br>
