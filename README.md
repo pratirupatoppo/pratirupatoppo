@@ -40,41 +40,31 @@
 # 💻 Tech Stack:
 
 <div align="center">
-  <h3>Core Technologies & Design</h3>
-  <!-- Animated Skill Icons Grid -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,java,html,vercel,netlify,tailwind,threejs,figma,github,arduino&theme=dark&perline=6" alt="Core Tech Stack" />
-  </a>
+  <!-- Core Tech Icons -->
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" />
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" />
+  <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" />
+  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" width="48" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" />
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="48" />
   
-  <br><br>
- <<div align="center">
-  <h3>Data Analytics & Libraries</h3>
-  <br>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" alt="scikit-learn" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" alt="Matplotlib" />
-  <img width="15" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="45" alt="Power BI" />
-  <img width="15" />
-  <img src="https://www.chartjs.org/img/chartjs-logo.svg" height="45" alt="Chart.js" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="SQL Server" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="45" alt="Framer" />
+  <!-- Data Analytics & Library Icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" />
+  <img src="https://www.chartjs.org/img/chartjs-logo.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="48" />
 </div>
 
 <br>
-</div>
-
-<br>
-
-<br>
-</div>
 
 <br>
 
