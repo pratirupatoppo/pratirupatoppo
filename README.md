@@ -84,6 +84,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 </div>
-
-<div>
-<img src="your_gif.gif" align="center" width="80%" alt="Creative Developer Studio" /></div>
