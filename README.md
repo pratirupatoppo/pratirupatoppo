@@ -76,7 +76,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratirupatoppo&repo=WhistleStop&theme=merko" width="400px" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratirupatoppo&repo=quantix-dashboard&theme=merko" width="400px" />
-  <img src="ironman.gif" width="110px" alt="Ironman" /><img src="scarlet.gif" width="130px" alt="Scarlet" /><img src="wolverine_batman.gif" width="110px" alt="Wolverine & Batman" /><img src="wolverin.gif" width="110px" alt="Wolverine" />
+  <img src="ironman.gif" width="120px" alt="Ironman" /><img src="scarlet.gif" width="150px" alt="Scarlet" /><img src="wolverine_batman.gif" width="120px" alt="Wolverine & Batman" />
 </div>
 
 <br>
