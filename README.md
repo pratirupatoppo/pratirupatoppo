@@ -8,16 +8,17 @@
 
 <img src="your_gif.gif" align="right" width="350px" alt="Creative Developer Studio" />
 
-<br>
-
 🧠 Computer Science student at XIM University<br>
 🎨 UI/UX Enthusiast<br>
 🎸 Guitarist & Creative Developer<br>
 🌱 I’m currently learning Data Analytics to solve complex business problems and predict consumer behavior through machine learning<br>
 ⚡ Fun fact I’ve engineered a smart irrigation system that’s actually better at keeping my plants alive than I am<br>
 
+<br clear="both">
+<br>
+
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PratirupaToppo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratirupatoppo@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PratirupaToppo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratirupatoppo@gmail.com)
 
 # 📊 GitHub Stats:
 <div>
