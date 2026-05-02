@@ -5,9 +5,6 @@
 </div>
 
 <br>
-
-<img src="your_gif.gif" align="right" width="250px" alt="Creative Developer Studio" />
-
 🧠 Computer Science student at XIM University<br>
 🎨 UI/UX Enthusiast<br>
 🎸 Guitarist & Creative Developer<br>
@@ -87,3 +84,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 </div>
+
+<div>
+<img src="your_gif.gif" align="center" width="80%" alt="Creative Developer Studio" /></div>
