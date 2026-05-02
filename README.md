@@ -23,7 +23,7 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratirupatoppo&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400px" />
   &nbsp;&nbsp;
-  <img src="Chill Mario.gif" width="400px" alt="Creative Developer Studio" />
+  <img src="mario_bordered.gif" width="385px" alt="Creative Developer Studio" />
 </div>
 <br>
 
