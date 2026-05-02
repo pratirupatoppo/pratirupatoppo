@@ -6,6 +6,10 @@
 
 <br>
 
+<img src="your_gif.gif" align="right" width="350px" alt="Creative Developer Studio" />
+
+<br>
+
 🧠 Computer Science student at XIM University<br>
 🎨 UI/UX Enthusiast<br>
 🎸 Guitarist & Creative Developer<br>
