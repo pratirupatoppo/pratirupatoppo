@@ -17,13 +17,12 @@
 
 # 📊 GitHub Stats:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=pratirupatoppo&theme=merko&hide_border=false&include_all_commits=true&count_private=true" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=pratirupatoppo&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400px" />
   &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com/?user=pratirupatoppo&theme=merko&hide_border=false" width="400px" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratirupatoppo&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400px" />
 </div>
-
 <br>
 
 # 📈 Contribution Activity:
