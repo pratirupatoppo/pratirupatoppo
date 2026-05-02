@@ -1,25 +1,13 @@
 <div style="font-family: 'Playfair Display', serif;">
-
 <div align="center">
   <img src="banner.png" alt="Hi, I'm Pratirupa Banner" width="100%" />
-</div>
-
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td valign="top" width="75%">
-
+</div><br>
+<img src="character.gif" align="right" width="260px" alt="Creative Developer Studio" /><br>
 🧠 Computer Science student at XIM University<br>
 🎨 UI/UX Enthusiast<br>
 🎸 Guitarist & Creative Developer<br>
-🌱 I'm currently learning Data Analytics to solve complex business problems and predict consumer behavior through machine learning<br>
-⚡ Fun fact I've engineered a smart irrigation system that's actually better at keeping my plants alive than I am
-
-</td>
-<td valign="top" align="right" width="25%">
-<img src="character.gif" width="220px" alt="Creative Developer Studio" />
-</td>
-</tr>
-</table>
+🌱 I’m currently learning Data Analytics to solve complex business problems and predict consumer behavior through machine learning<br>
+⚡ Fun fact I’ve engineered a smart irrigation system that’s actually better at keeping my plants alive than I am
 
 
 ## 🌐 Socials:
