@@ -26,7 +26,7 @@
 <br>
 
 
-# 📈 Contribution Activity:<img src="crab.gif" align= "center" width="68px" alt="Bongo Cat" /> <img src="cat.gif" align= "right" width="68px" alt="Bongo Cat" />
+# 📈 Contribution Activity:<img src="crab_longer_walk.gif" align= "center" width="400px" alt="Bongo Cat" /> <img src="cat.gif" align= "right" width="68px" alt="Bongo Cat" />
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratirupatoppo/pratirupatoppo/output/github-contribution-grid-snake-dark.svg">
