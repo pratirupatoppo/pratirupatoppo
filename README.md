@@ -4,7 +4,6 @@
   <img src="banner.png" alt="Hi, I'm Pratirupa Banner" width="100%" />
 </div>
 <img src="character.gif" align="right" width="260px" alt="Creative Developer Studio" />
-<br>
 🧠 Computer Science student at XIM University<br>
 🎨 UI/UX Enthusiast<br>
 🎸 Guitarist & Creative Developer<br>
