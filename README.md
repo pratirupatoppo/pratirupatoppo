@@ -2,7 +2,7 @@
 <div align="center">
   <img src="banner.png" alt="Hi, I'm Pratirupa Banner" width="100%" />
 </div>
-<img src="character.gif" align="right" width="265px" alt="Creative Developer Studio" /><br>
+<img src="character.gif" align="right" width="265px" alt="Character" /><br>
 🧠 Computer Science student at XIM University<br>
 🎨 UI/UX Enthusiast<br>
 🎸 Guitarist & Creative Developer<br>
@@ -21,12 +21,12 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratirupatoppo&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400px" />
   &nbsp;&nbsp;
-  <img src="mario_bordered.gif" width="385px" alt="Creative Developer Studio" />
+  <img src="mario_bordered.gif" width="385px" alt="Chill Mario" />
 </div>
 <br>
 
 
-# 📈 Contribution Activity:<img src="crab_longer_walk.gif" align= "center" width="400px" alt="Bongo Cat" /> <img src="cat.gif" align= "right" width="68px" alt="Bongo Cat" />
+# 📈 Contribution Activity:<img src="crab_longer_walk.gif" align= "center" width="400px" alt="Crab" /> <img src="cat.gif" align= "right" width="68px" alt="Bongo Cat" />
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratirupatoppo/pratirupatoppo/output/github-contribution-grid-snake-dark.svg">
@@ -71,12 +71,12 @@
 
 # 🚀 Featured Projects:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratirupatoppo&repo=smart-plant&theme=merko" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratirupatoppo&repo=smart-plant&theme=merko" width="450px" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratirupatoppo&repo=WhistleStop&theme=merko" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratirupatoppo&repo=WhistleStop&theme=merko" width="450px" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratirupatoppo&repo=quantix-dashboard&theme=merko" width="400px" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratirupatoppo&repo=quantix-dashboard&theme=merko" width="450px" />
+  <img src="ironman.gif" width="120px" alt="Ironman" />
 </div>
 
 <br>
