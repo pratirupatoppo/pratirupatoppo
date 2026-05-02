@@ -71,11 +71,11 @@
 
 # 🚀 Featured Projects:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratirupatoppo&repo=smart-plant&theme=merko" width="450px" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratirupatoppo&repo=smart-plant&theme=merko" width="400px" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratirupatoppo&repo=WhistleStop&theme=merko" width="450px" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratirupatoppo&repo=WhistleStop&theme=merko" width="400px" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratirupatoppo&repo=quantix-dashboard&theme=merko" width="450px" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratirupatoppo&repo=quantix-dashboard&theme=merko" width="400px" />
   <img src="ironman.gif" width="120px" alt="Ironman" />
 </div>
 
