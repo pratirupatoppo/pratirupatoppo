@@ -26,7 +26,7 @@
 <br>
 
 
-# 📈 Contribution Activity:<img src="cat.gif" align= "right" width="68px" alt="Bongo Cat" />
+# 📈 Contribution Activity:<img src="crab.gif" align= "center" width="68px" alt="Bongo Cat" /> <img src="cat.gif" align= "right" width="68px" alt="Bongo Cat" />
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratirupatoppo/pratirupatoppo/output/github-contribution-grid-snake-dark.svg">
@@ -76,6 +76,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratirupatoppo&repo=WhistleStop&theme=merko" width="400px" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratirupatoppo&repo=quantix-dashboard&theme=merko" width="400px" />
+  
 </div>
 
 <br>
