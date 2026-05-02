@@ -25,6 +25,7 @@
 </div>
 <br>
 
+<img src="cat.gif" align="right" width="55px" alt="Bongo Cat" />
 # 📈 Contribution Activity:
 <div align="center">
   <picture>
