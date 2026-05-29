@@ -15,11 +15,11 @@
 
 # 📊 GitHub Stats:
 <div>
- <img src="https://github-readme-stats-sigma-nine-99.vercel.app/api/?username=pratirupatoppo&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400px" />
+  <img src="https://github-readme-stats-sigma-nine-99.vercel.app/api/?username=pratirupatoppo&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400px" />
   &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com/?user=pratirupatoppo&theme=merko&hide_border=false" width="400px"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratirupatoppo&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400px" />
+  <img src="https://github-readme-stats-sigma-nine-99.vercel.app/api/top-langs/?username=pratirupatoppo&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400px" />
   &nbsp;&nbsp;
   <img src="mario_bordered.gif" width="385px" alt="Chill Mario" />
 </div>
@@ -71,14 +71,13 @@
 
 # 🚀 Featured Projects:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratirupatoppo&repo=smart-plant&theme=merko" width="400px" />
+  <img src="https://github-readme-stats-sigma-nine-99.vercel.app/api/pin/?username=pratirupatoppo&repo=smart-plant&theme=merko&show_owner=true&cache_seconds=86400" width="400px" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratirupatoppo&repo=WhistleStop&theme=merko" width="400px" />
+  <img src="https://github-readme-stats-sigma-nine-99.vercel.app/api/pin/?username=pratirupatoppo&repo=WhistleStop&theme=merko&show_owner=true&cache_seconds=86400" width="400px" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratirupatoppo&repo=quantix-dashboard&theme=merko" width="400px" />
+  <img src="https://github-readme-stats-sigma-nine-99.vercel.app/api/pin/?username=pratirupatoppo&repo=quantix-dashboard&theme=merko&show_owner=true&cache_seconds=86400" width="400px" />
   <img src="ironman.gif" width="120px" alt="Ironman" /><img src="scarlet.gif" width="150px" alt="Scarlet" /><img src="wolverine_batman.gif" width="120px" alt="Wolverine & Batman" />
 </div>
-
 <br>
 
 
